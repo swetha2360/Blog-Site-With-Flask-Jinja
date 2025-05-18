@@ -1,4 +1,4 @@
-# 📝 Blog Site with Flask and Jinja2
+# 📝 Blog Site with Flask and Jinja
 
 This is a simple blog web application built using **Flask**, **Jinja2**, **HTML**, and **CSS**. It dynamically renders blog posts using Jinja templating and separates logic from presentation.
 
@@ -14,12 +14,12 @@ This is a simple blog web application built using **Flask**, **Jinja2**, **HTML*
 
 - Python  
 - Flask  
-- Jinja2  
+- Jinja 
 - HTML  
 - CSS  
 
 ## 📁 Project Structure
-
+```
 blog-site-with-flask-jinja/
 │
 ├── static/
@@ -32,3 +32,4 @@ blog-site-with-flask-jinja/
 │
 ├── app.py                        # Main Flask application
 ├── requirements.txt              # List of Python packages used
+```
